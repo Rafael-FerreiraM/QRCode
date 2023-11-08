@@ -21,7 +21,7 @@ Este é um aplicativo Android que permite o gerenciamento da presença de alunos
 - Emulador Android ou dispositivo físico para testar o aplicativo.
 - Abra o projeto no Android Studio.
 - Compile e execute o aplicativo em um emulador Android ou dispositivo físico.
-- 
+  
 ## Contribuição
 - Contribuições são bem-vindas! Se você deseja contribuir para este projeto fique a vontade !
   
